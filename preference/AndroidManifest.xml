@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.baikalos.gear.preference">
+    package="com.cerberusos.gear.preference">
 
     <uses-sdk
         android:minSdkVersion="27" />

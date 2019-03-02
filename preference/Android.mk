@@ -4,7 +4,7 @@ include $(CLEAR_VARS)
 
 LOCAL_USE_AAPT2 := true
 
-LOCAL_MODULE := BaikalOSGear-preference
+LOCAL_MODULE := CerberusOSGear-preference
 
 LOCAL_PROGUARD_ENABLED := disabled
 LOCAL_JAR_EXCLUDED_FILES := none
@@ -17,7 +17,7 @@ LOCAL_SHARED_ANDROID_LIBRARIES := \
     android-support-v7-preference \
     android-support-v7-recyclerview \
     android-support-v14-preference \
-    BaikalOSGear-util \
+    CerberusOSGear-util \
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
