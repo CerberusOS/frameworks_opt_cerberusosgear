@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cerberus.gear.preference;
+package com.cerberusos.gear.preference;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;
