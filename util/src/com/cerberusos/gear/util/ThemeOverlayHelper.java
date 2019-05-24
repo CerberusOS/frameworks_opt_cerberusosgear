@@ -75,6 +75,7 @@ public class ThemeOverlayHelper {
             "com.cerberusos.overlay.accent.teal.android",
             "com.cerberusos.overlay.accent.turquoise.android",
             "com.cerberusos.overlay.accent.yellow.android",
+            "com.cerberusos.overlay.accent.oneplusred.android",
     };
 
     private static final HashMap<Integer, String> ACCENT_MAP = new HashMap();
@@ -96,6 +97,7 @@ public class ThemeOverlayHelper {
         ACCENT_MAP.put(14, ACCENT_OVERLAYS[13]); // teal
         ACCENT_MAP.put(15, ACCENT_OVERLAYS[14]); // turquoise
         ACCENT_MAP.put(16, ACCENT_OVERLAYS[15]); // yellow
+        ACCENT_MAP.put(17, ACCENT_OVERLAYS[16]); // oneplus red
     }
 
     private ThemeOverlayHelper() {}
